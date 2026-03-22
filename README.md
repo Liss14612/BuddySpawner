@@ -1,4 +1,4 @@
-![BuddySpawner](icon.png)
+![BuddySpawner](BUDDY.jpg)
 
 
 
